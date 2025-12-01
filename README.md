@@ -20,3 +20,6 @@ A full-stack web app built with **Flask, SQLAlchemy, Bootstrap, and Matplotlib**
    ```bash
    git clone https://github.com/YOUR_USERNAME/finance-dashboard.git
    cd finance-dashboard
+
+   ## Live Demo
+   [Try the Finance Dashboard here] (https://finance-dashboard-hze8.onrender.com)
